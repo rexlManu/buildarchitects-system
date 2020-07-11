@@ -1,0 +1,10 @@
+main: de.rexlmanu.buildarchitects.lobby.LobbyPlugin
+name: Lobby
+author: Emmanuel Lampe
+version: 1.0
+website: https://emmanuel-lampe.de
+depend:
+  - SlimeWorldManager
+  - CloudNetAPI
+commands:
+  buildlobby:

@@ -1,0 +1,7 @@
+main: de.rexlmanu.application.ApplicationPlugin
+name: Application
+version: 1.0
+author: Emmanuel Lampe
+website: https://emmanuel-lampe.de
+depend:
+  - SlimeWorldManager

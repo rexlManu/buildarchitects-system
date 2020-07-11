@@ -1,0 +1,8 @@
+main: de.rexlmanu.buildarchitects.build.BuildPlugin
+name: Build
+version: 1.0
+author: Emmanuel Lampe
+website: https://emmanuel-lampe.de
+
+commands:
+  worlds:
